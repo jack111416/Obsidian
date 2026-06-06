@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装和配置 `lossless-claw` 插件.md",
+                "file": "github同步obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安装和配置 `lossless-claw` 插件"
+              "title": "github同步obsidian"
             }
           }
         ]
@@ -201,9 +201,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "83480a1fc2d438ad",
+  "active": "607ae7e40c581c4f",
   "lastOpenFiles": [
     "安装和配置 `lossless-claw` 插件.md",
+    "github同步obsidian.md",
     "智能获客智能体.md",
     "一人公司的 AI.md",
     "新建 文本文档.md",
