@@ -1,0 +1,29 @@
+{
+  "version": "0.1.0",
+  "records": [
+    {
+      "file": "raw/sources/deep-learning-nlp.md",
+      "hash": "sha256:PLACEHOLDER",
+      "timestamp": "2026-06-06T14:30:00Z",
+      "pages_created": [
+        "wiki/entities/google-brain-deepmind.md",
+        "wiki/entities/openai.md",
+        "wiki/entities/meta-ai.md",
+        "wiki/entities/alibaba.md",
+        "wiki/entities/deepseek.md",
+        "wiki/concepts/transformer.md",
+        "wiki/concepts/large-language-model.md",
+        "wiki/concepts/attention-mechanism.md",
+        "wiki/concepts/multimodal-learning.md",
+        "wiki/concepts/retrieval-augmented-generation.md",
+        "wiki/sources/deep-learning-nlp.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/log.md"
+      ],
+      "review_items": 0
+    }
+  ]
+}
