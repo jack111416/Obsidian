@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:jack111416/Obsidian.git",
+  "gitLocation": "",
+  "syncinterval": 30,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
