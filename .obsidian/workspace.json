@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test.md"
+              "title": "test"
             }
           }
         ]
@@ -200,10 +200,10 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "383ea233f647aa4c",
+  "active": "83480a1fc2d438ad",
   "lastOpenFiles": [
+    "test.md",
     "1233",
-    "test.md.md",
     "github同步obsidian.md",
     "安装和配置 `lossless-claw` 插件.md",
     "智能获客智能体.md",
