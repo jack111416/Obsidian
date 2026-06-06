@@ -6,7 +6,7 @@
       {
         "id": "5d4a1d94c488a740",
         "type": "tabs",
-        "dimension": 83.45740281224153,
+        "dimension": 64.51612903225806,
         "children": [
           {
             "id": "607ae7e40c581c4f",
@@ -27,7 +27,7 @@
       {
         "id": "13d5b0c310b070f0",
         "type": "tabs",
-        "dimension": 16.542597187758478,
+        "dimension": 35.483870967741936,
         "children": [
           {
             "id": "83480a1fc2d438ad",
@@ -200,7 +200,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "607ae7e40c581c4f",
+  "active": "383ea233f647aa4c",
   "lastOpenFiles": [
     "1233",
     "test.md.md",
