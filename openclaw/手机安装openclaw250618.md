@@ -1,3 +1,7 @@
+
+proot-distro login ubuntu --user root
+
+
 在 Termux 上安装 OpenClaw 主要有两种方式：**一是直接安装专用的 Flutter APK 应用（最省心）**，**二是在 Termux 命令行中通过 npm 安装（更极客）**。
 
 ### 📱 方案一：安装 Flutter APK 应用（最简单，推荐）
