@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9router.md",
+                "file": "hermes/linux安装hermes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "9router"
+              "title": "linux安装hermes"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "607ae7e40c581c4f",
   "lastOpenFiles": [
-    "openclaw/新建 文本文档.md",
     "9router.md",
+    "hermes/linux安装hermes.md",
+    "openclaw/新建 文本文档.md",
     "openclaw/手机安装openclaw250618.md",
     "hermes/ReadMe.md",
     "hermes/手机安装hermes.md",
@@ -217,7 +218,6 @@
     "1233",
     "github同步obsidian.md",
     "安装和配置 `lossless-claw` 插件.md",
-    "智能获客智能体.md",
     "自媒体获客项目",
     "openclaw",
     "hermes"
