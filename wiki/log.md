@@ -13,3 +13,12 @@ Append-only 时序操作记录，由 LLM 在每次摄入/查询/Lint 后追加�
 - 新增页面：sources/deep-learning-nlp.md
 - 更新页面：index.md, overview.md
 - 审核项：0
+
+## [2026-06-08 11:02] project | Huashu-Design 项目报告 Deck
+- 新增页面：`hermes/Huashu-Design-Project-Delivery.md`
+- 项目路径：`~/.hermes/skills/huashu-design/projects/huashu-report/`
+- 内容：7 页 HTML deck（暖黑 + 铜橙），正文最终 24px / 副标题 25px
+- 技术：多文件架构，shared/tokens.css 全局 token，deck_index.html 拼接器
+- 部署：HTTP server 8899，同一 WiFi 可访问
+- 更新页面：wiki/index.md（添加项目条目）
+- 审核项：0

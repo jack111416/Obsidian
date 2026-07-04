@@ -50,12 +50,9 @@
 
 ---
 
-## 查询存档（Queries）
+## 项目与交付物（Projects & Deliverables）
 
-（暂无）
-
----
-
-## 对比（Comparisons）
-
-（暂无）
+| 项目 | 页面 | 类型 | 备注 |
+|------|------|------|------|
+| Huashu-Design 项目报告 Deck | [[Huashu-Design-Project-Delivery]] | project | 7 页 HTML deck，暖黑 + 铜橙主题，正文 24px / 副标题 25px |
+| Huashu-Design Skill 资料库 | [[huashu-design/SKILL]] | skill | 完整 skill 文档 + 26 篇 references，存放于 ObsidianVault/hermes/huashu-design/ |
