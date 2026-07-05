@@ -15,5 +15,4 @@ Primary: nv:stepfun-ai/step-3.5-flash. Local provider 127.0.0.1:8080 defunct. Ol
 修改 config.yaml 之前必须先运行备份脚本 ~/.hermes/scripts/config_backup.py。这在每次需要修改模型配置、备用模型列表或其他关键设置时自动执行。
 §
 EasyTier 启动：cd ~/easytier-linux-aarch64 && sudo nohup ./easytier-core -c ~/easytier-config.toml > easytier.log 2>&1 &
-§
 WebUI 启动：cd ~/hermes-webui && ./ctl.sh start
