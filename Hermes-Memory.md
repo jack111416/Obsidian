@@ -14,4 +14,4 @@ Primary: nv:stepfun-ai/step-3.5-flash. Local provider 127.0.0.1:8080 defunct. Ol
 §
 修改 config.yaml 之前必须先运行备份脚本 ~/.hermes/scripts/config_backup.py。这在每次需要修改模型配置、备用模型列表或其他关键设置时自动执行。
 §
-EasyTier 重启流程（Android Termux 关键坑）：1) pkill -f easytier-core 2) sudo ip link del tun0 tun1 tun2 3) cd ~/easytier-linux-aarch64 && sudo ./easytier-core -c ~/easytier-config.toml > easytier.log 2>&1 &（后台启动）。原因：pkill 后内核不自动删除 TUN 接口，再启动会递增创建 tun1/tun2/tun3，导致端口转发绑定到错误接口。必须先手动 ip link del 清理残留接口。
+EasyTier 重启流程（Android Termux 关键坑）：1) sudo kill $(sudo pgrep -f easytier-core)（避免用 pkill -f 会杀掉终端父进程 exit -15）2) sudo ip link del tun0 tun1 tun2 3) cd ~/easytier-linux-aarch64 && sudo ./easytier-core -c ~/easytier-config.toml > easytier.log 2>&1 &（后台启动）。原因：pkill 后内核不自动删除 TUN 接口，再启动会递增创建 tun1/tun2/tun3，导致端口转发绑定到错误接口。必须先手动 ip link del 清理残留接口。坑点：ps -p <pid> 在 Termux 不可靠，用 pgrep 或 ps aux | grep 验证进程存活；pkill -f 容易匹配到启动它的 bash 脚本，用 sudo pgrep + sudo kill 更安全。
