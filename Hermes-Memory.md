@@ -8,7 +8,7 @@ User environment: Android Termux. custom_providers includes nv (Nvidia) and aliy
 §
 Git installed v2.54.0, GitHub latency ~113ms. Obsidian vault: ~/ObsidianVault/, Git remote: github.com:jack111416/Obsidian.git (SSH)
 §
-User prefers visual knowledge bases combining screenshots + transcripts. Expects B站 video extraction workflow: metadata → audio download → ASR → markdown chunks → summary → visual elements.
+User prefers visual knowledge bases combining screenshots + transcripts. Expects B站视频 extraction workflow: metadata → audio download → ASR → markdown chunks → summary → visual elements.
 §
 Primary: nv:stepfun-ai/step-3.5-flash. Local provider 127.0.0.1:8080 defunct. Ollama 127.0.0.1:11434 working.
 §
