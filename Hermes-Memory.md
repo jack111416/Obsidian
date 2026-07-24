@@ -4,7 +4,7 @@ User prefers StepFun Step-3.5-Flash model on Nvidia provider; model string: nv:s
 §
 User environment: Android Termux. custom_providers includes nv (Nvidia) and aliyuncs (Alibaba Cloud). .env contains GLM_API_KEY and GLM_BASE_URL (legacy).
 §
-重要教训：即使是为了修复问题，修改配置文件或重启服务前也必须征得用户明确同意。用户坚持"不要自动切换模型，任何配置更改前必须先询问"。之前未经同意修改 config.yaml 并重启网关，违反了这一偏好。
+重要教训：即使是为了修复问题，修改配置文件或重启服务前也必须先征得用户明确同意。用户坚持"不要自动切换模型，任何配置更改前必须先询问"。之前未经同意修改 config.yaml 并重启网关，违反了这一偏好。
 §
 Git installed v2.54.0, GitHub latency ~113ms. Obsidian vault: ~/ObsidianVault/, Git remote: github.com:jack111416/Obsidian.git (SSH)
 §
