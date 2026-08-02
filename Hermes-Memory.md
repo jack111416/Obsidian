@@ -16,4 +16,4 @@ Primary: nv:stepfun-ai/step-3.5-flash. Local provider 127.0.0.1:8080 defunct. Ol
 §
 EasyTier 重启流程（Android Termux 关键坑）：1) sudo kill $(sudo pgrep -f easytier-core)（避免用 pkill -f 会杀掉终端父进程 exit -15）2) sudo ip link del tun0 tun1 tun2 3) cd ~/easytier-linux-aarch64 && sudo ./easytier-core -c ~/easytier-config.toml > easytier.log 2>&1 &（后台启动）。原因：pkill 后内核不自动删除 TUN 接口，再启动会递增创建 tun1/tun2/tun3，导致端口转发绑定到错误接口。必须先手动 ip link del 清理残留接口。坑点：ps -p <pid> 在 Termux 不可靠，用 pgrep 或 ps aux | grep 验证进程存活；pkill -f 容易匹配到启动它的 bash 脚本，用 sudo pgrep + sudo kill 更安全。
 §
-Hermes v0.19.0 editable install (~/.hermes/hermes-agent) has local patch in hermes_cli/main.py: _print_fast_version_info() computes install dir via local Path(__file__) + `from pathlib import Path` import, fixing Termux `hermes --version` NameError: PROJECT_ROOT fast-path bug. git pull 可能覆盖，若 --version 崩溃需重新应用。
+Hermes v0.19.0 editable install (~/.hermes/hermes-agent) has local patch in hermes_cli/main.py: _print_fast_version_info() computes install dir via local Path(__file__) + `from pathlib import Path` import, fixing Termux `hermes --version` NameError: PROJECT_ROOT fast-path bug. git pull 可能覆盖，若 --version 崩溃需重新应用.
