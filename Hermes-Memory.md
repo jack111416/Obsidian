@@ -1,6 +1,6 @@
 User uses WeChat (微信 ClawBot) as messaging platform via Hermes Gateway.
 §
-User prefers StepFun Step-3.5-Flash model on Nvidia provider; model string: nv:step-3.5-flash.
+User prefers StepFun Step-3.5-Flash model on Nvidia provider; model string: nv:stepfun-ai/step-3.5-flash.
 §
 User environment: Android Termux. custom_providers includes nv (Nvidia) and aliyuncs (Alibaba Cloud). .env contains GLM_API_KEY and GLM_BASE_URL (legacy).
 §
