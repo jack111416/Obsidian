@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vibe Coding 实战/System Prompt 与 Rules.md",
+                "file": "Vibe Coding 实战/第 3 讲：上下文工程.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "System Prompt 与 Rules"
+              "title": "第 3 讲：上下文工程"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vibe Coding 实战/System Prompt 与 Rules.md",
+                "file": "Vibe Coding 实战/第 3 讲：上下文工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "System Prompt 与 Rules 的反向链接列表"
+              "title": "第 3 讲：上下文工程 的反向链接列表"
             }
           },
           {
@@ -185,19 +185,20 @@
   },
   "active": "607ae7e40c581c4f",
   "lastOpenFiles": [
-    "Pasted image 20260901090117.png",
-    "Vibe Coding 实战/Vibe Coding 入门.md",
-    "Vibe Coding 实战/System Prompt 与 Rules.md",
-    "Pasted image 20260901085614.png",
-    "Pasted image 20260901085549.png",
-    "Pasted image 20260901085531.png",
-    "Pasted image 20260901085506.png",
-    "Pasted image 20260901085446.png",
-    "Pasted image 20260901084729.png",
-    "Pasted image 20260901084639.png",
-    "Pasted image 20260901084609.png",
-    "Pasted image 20260901084108.png",
-    "Pasted image 20260901084054.png",
+    "Pasted image 20260901092952.png",
+    "Pasted image 20260901092914.png",
+    "Pasted image 20260901092904.png",
+    "Pasted image 20260901092851.png",
+    "Pasted image 20260901092841.png",
+    "Pasted image 20260901092827.png",
+    "Pasted image 20260901092817.png",
+    "Pasted image 20260901092744.png",
+    "Pasted image 20260901092705.png",
+    "Pasted image 20260901092647.png",
+    "Pasted image 20260901092415.png",
+    "Vibe Coding 实战/第 1 讲：Vibe Coding 入门.md",
+    "Vibe Coding 实战/第 3 讲：上下文工程.md",
+    "Vibe Coding 实战/第 2 讲：System Prompt 与 Rules.md",
     "Vibe Coding 实战/课程导读.md",
     "hermes/linux安装hermes.md",
     "Vibe Coding 实战",
@@ -222,7 +223,6 @@
     "hermes/huashu-design/references/css-token-priority.md",
     "hermes/huashu-design/references/critique-guide.md",
     "hermes/huashu-design/references/content-guidelines.md",
-    "hermes/huashu-design/references/cinematic-patterns.md",
     "hermes/huashu-design/references",
     "hermes/huashu-design",
     "wiki/sources",
