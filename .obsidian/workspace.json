@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hermes/linux安装hermes.md",
+                "file": "Vibe Coding 实战/System Prompt 与 Rules.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "linux安装hermes"
+              "title": "System Prompt 与 Rules"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "openclaw/新建 文本文档.md",
+                "file": "Vibe Coding 实战/System Prompt 与 Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "新建 文本文档 的反向链接列表"
+              "title": "System Prompt 与 Rules 的反向链接列表"
             }
           },
           {
@@ -185,41 +185,51 @@
   },
   "active": "607ae7e40c581c4f",
   "lastOpenFiles": [
-    "9router.md",
+    "Pasted image 20260901090117.png",
+    "Vibe Coding 实战/Vibe Coding 入门.md",
+    "Vibe Coding 实战/System Prompt 与 Rules.md",
+    "Pasted image 20260901085614.png",
+    "Pasted image 20260901085549.png",
+    "Pasted image 20260901085531.png",
+    "Pasted image 20260901085506.png",
+    "Pasted image 20260901085446.png",
+    "Pasted image 20260901084729.png",
+    "Pasted image 20260901084639.png",
+    "Pasted image 20260901084609.png",
+    "Pasted image 20260901084108.png",
+    "Pasted image 20260901084054.png",
+    "Vibe Coding 实战/课程导读.md",
     "hermes/linux安装hermes.md",
-    "openclaw/新建 文本文档.md",
-    "openclaw/手机安装openclaw250618.md",
-    "hermes/ReadMe.md",
-    "hermes/手机安装hermes.md",
-    "test.md",
-    "wiki/sources/deep-learning-nlp.md",
-    "wiki/concepts/retrieval-augmented-generation.md",
-    "wiki/concepts/transformer.md",
-    "wiki/concepts/attention-mechanism.md",
-    "wiki/concepts/multimodal-learning.md",
-    "wiki/concepts/large-language-model.md",
-    "wiki/entities/google-brain-deepmind.md",
-    "wiki/entities/openai.md",
-    "wiki/entities/meta-ai.md",
-    "wiki/entities/alibaba.md",
-    "wiki/entities/deepseek.md",
+    "Vibe Coding 实战",
+    "raw/transcripts/BV15TjS6zEPR.md",
+    "raw/transcripts",
+    "hermes/huashu-design/references/workflow.md",
+    "hermes/huashu-design/references/voiceover-pipeline.md",
+    "hermes/huashu-design/references/video-export.md",
+    "hermes/huashu-design/references/verification.md",
+    "hermes/huashu-design/references/tweaks-system.md",
+    "hermes/huashu-design/references/slide-decks.md",
+    "hermes/huashu-design/references/sfx-library.md",
+    "hermes/huashu-design/references/scene-templates.md",
+    "hermes/huashu-design/references/remote-preview-protocol.md",
+    "hermes/huashu-design/references/react-setup.md",
+    "hermes/huashu-design/references/multi-perspective-parallel-case-study.md",
+    "hermes/huashu-design/references/launch-film-director-notes.md",
+    "hermes/huashu-design/references/hero-animation-case-study.md",
+    "hermes/huashu-design/references/design-styles.md",
+    "hermes/huashu-design/references/editable-pptx.md",
+    "hermes/huashu-design/references/design-context.md",
+    "hermes/huashu-design/references/css-token-priority.md",
+    "hermes/huashu-design/references/critique-guide.md",
+    "hermes/huashu-design/references/content-guidelines.md",
+    "hermes/huashu-design/references/cinematic-patterns.md",
+    "hermes/huashu-design/references",
+    "hermes/huashu-design",
     "wiki/sources",
-    "wiki/purpose.md",
-    "wiki/index.md",
-    "wiki/schema.md",
-    "wiki/log.md",
-    "wiki/overview.md",
     "wiki/concepts",
     "wiki/entities",
     "wiki",
-    "raw/sources/deep-learning-nlp.md",
     "raw/sources",
-    "raw",
-    "1233",
-    "github同步obsidian.md",
-    "安装和配置 `lossless-claw` 插件.md",
-    "自媒体获客项目",
-    "openclaw",
-    "hermes"
+    "raw"
   ]
 }
